@@ -1,6 +1,1 @@
-# AdMob app-ads.txt for Nico Poser / Leyla's Code apps
-# Publisher ID: pub-3778451046949775
-# Apps covered: Schmitz CAD, DJI FCC Tool, Texteditor Pro, Eleven Spins,
-#               Cala Ratjada Insider, Apple Boy, Phonenumber Posing
-# Last updated: 2026-04-29
 google.com, pub-3778451046949775, DIRECT, f08c47fec0942fa0
